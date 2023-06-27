@@ -1,0 +1,31 @@
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.exe.config
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.exe
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.pdb
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.csprojResolveAssemblyReference.cache
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.MainWindow.resources
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.Properties.Resources.resources
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.csproj.GenerateResource.Cache
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.exe
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.pdb
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.exe.manifest
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.application
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.exe.manifest
+c:\users\sivgiv\documents\visual studio 2013\Projects\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.application
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.exe.config
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.exe
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.pdb
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\Files\headphone.ico
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\Files\speaker.ico
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\Files\NirCMD\nircmd.exe
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\Files\NirCMD\nircmdc.exe
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\Files\NirCMD\NirCmd.chm
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.exe.manifest
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.application
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.exe
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\bin\Debug\AudioDeviceChanger.pdb
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.csprojResolveAssemblyReference.cache
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.MainWindow.resources
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.Properties.Resources.resources
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.csproj.GenerateResource.Cache
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.exe.manifest
+F:\Programming\C#\AudioDeviceChanger\AudioDeviceChanger\AudioDeviceChanger\obj\Debug\AudioDeviceChanger.application
